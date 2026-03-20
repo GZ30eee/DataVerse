@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directory for HTTP/REST API secrets
+.streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Large models or binaries (optional but recommended for speed)
+# music_genre_classifier.pkl
+# label_encoder.pkl
